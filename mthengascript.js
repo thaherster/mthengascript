@@ -33,7 +33,7 @@ const coreLangKeywords = {
     "puthuthaye": "new",
     "prayogam": "function",
     "podhu": "public",
-    "bhantam": "package",
+    "bhanttam": "package",
     "madakkam": "return",
     "mudakkuka": "break",
     "moolyanirnayam": "eval",
