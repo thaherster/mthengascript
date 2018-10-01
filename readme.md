@@ -10,9 +10,9 @@ With it you can start programming for the web today in Manglish.
 
 
 
-Docs
+#Docs
 
-Usage
+#Usage
 
 If you want to try the live examples above, you can input Malayalam using Google Input Tools Extension.
 To write code on your computer download Thengascript and include it in your code as:
@@ -25,59 +25,59 @@ Now you can start Thengascripting in two ways. Include your inline code as:
 </script>
 or you can also include the file using the src attribute
 <script type="text/mthengascript" src="your-mthengascript-file.js"></script>
-Lexicon
+#Lexicon
 
 These are Manglish  equivalents of JS keywords. These are still in a tentative stage, feel free to email us if you have better suggestions.
-#	 adisthanam         	     	default 
-#     aanengil         		     	if 
-#     allengil         		     	else 
-#     aavatte              			let 
-#     avastha             		 	case 
-#     asadhu              			null 
-#     irakkumadhi              		import 
-#     ethe              				this 
-#     ene              				for 
-#     il              				in 
-#     udhaharanamane              	instanceof 
-#     uyarnatharam              		super 
-#     eriyuka              			throw 
-#     ennal              			enum 
-#     ethetharam              		typeof 
-#     ennirikke              		while 
-#     oduvil              			finally 
-#     oppam              			with 
-#     kayattumathi              		export 
-#     kalayuka              			delete 
-#     kaathirikkuka              	await 
-#     ganam              			class 
-#     cheyuka              			do 
-#     thirikkuka              		switch 
-#     thiruthal              		debugger 
-#     thudaruka              		continue 
-#     thett              			false 
-#     nalkuka              			yield 
-#     nirvahikkuka              		implements 
-#     parivarthanam              	var 
-#     pidikkuka              		catch 
-#     puthuthaye              		new 
-#     prayogam              			function 
-#     podhu              			public 
-#     bhanttam              			package 
-#     madakkam              			return 
-#     mudakkuka              		break 
-#     moolyanirnayam              	eval 
-#     vaadam              			arguments 
-#     vyartham              			void 
-#     vyapipikkunnu              	extends 
-#     sheri              			true 
-#     shashwatham              		const 
-#     shremikkuka              		try 
-#     samparkkamukham              	interface 
-#     surakshithamaakkapetta         protected 
-#     swakarya              			private 
-#     sthaayi              			static
-#     kaanikkuka              		console.log 
-#      munnariyippe              	alert
+#	  adisthanam         	     	-default 
+#     aanengil         		     	-if 
+#     allengil         		     	-else 
+#     aavatte              			-let 
+#     avastha             		 	-case 
+#     asadhu              			-null 
+#     irakkumadhi              		-import 
+#     ethe              			-this 
+#     ene              				-for 
+#     il              				-in 
+#     udhaharanamane              	-instanceof 
+#     uyarnatharam              	-super 
+#     eriyuka              			-throw 
+#     ennal              			-enum 
+#     ethetharam              		-typeof 
+#     ennirikke              		-while 
+#     oduvil              			-finally 
+#     oppam              			-with 
+#     kayattumathi              	-export 
+#     kalayuka              		-delete 
+#     kaathirikkuka              	-await 
+#     ganam              			-class 
+#     cheyuka              			-do 
+#     thirikkuka              		-switch 
+#     thiruthal              		-debugger 
+#     thudaruka              		-continue 
+#     thett              			-false 
+#     nalkuka              			-yield 
+#     nirvahikkuka              	-implements 
+#     parivarthanam              	-var 
+#     pidikkuka              		-catch 
+#     puthuthaye              		-new 
+#     prayogam              		-function 
+#     podhu              			-public 
+#     bhanttam              		-package 
+#     madakkam              		-return 
+#     mudakkuka              		-break 
+#     moolyanirnayam              	-eval 
+#     vaadam              			-arguments 
+#     vyartham              		-void 
+#     vyapipikkunnu              	-extends 
+#     sheri              			-true 
+#     shashwatham              		-const 
+#     shremikkuka              		-try 
+#     samparkkamukham              	-interface 
+#     surakshithamaakkapetta        -protected 
+#     swakarya              		-private 
+#     sthaayi              			-static
+#     kaanikkuka              		-console.log 
+#      munnariyippe              	-alert
 
 
 
